@@ -1,0 +1,207 @@
+.box1{
+    border: 1px solid black;
+    height: 476px;
+    width: 35%;
+    margin: auto;
+    background: #000;
+    border-radius: 10px;
+}
+.box2{
+    border: 1px solid rgb(255, 255, 255);
+    margin-top: 30px;
+    height: 12%;
+    width: 420px;
+    margin-left: 30px;
+    border-radius: 10px;
+    background: rgb(139, 209, 34);
+    border: none;
+}
+.box3{
+    border: 1px solid rgb(255, 24, 24);
+    margin-top: -360px;
+    width: 80px;
+    height: 56px;
+    margin-left: 470px;
+    border-radius: 10px;
+    color: white;
+    background: red;
+}
+h1{
+    margin: auto;
+    font-size: 44px;
+    text-align: center;
+}
+.box4{
+    border: 1px solid black;
+    width: 80px;
+    height: 56px;
+    margin-left: 580px;
+    border-radius: 10px;
+    color: white;
+    background: blue;
+    margin-top: -59px;
+}
+.box5{
+    border: 1px solid black;
+    width: 80px;
+    height: 56px;
+    margin-left: 680px;
+    border-radius: 10px;
+    color: white;
+    background: blue;
+    margin-top: -59px;
+}
+.box6{
+    border: 1px solid rgb(0, 0, 0);
+    width: 80px;
+    height: 56px;
+    margin-left: 780px;
+    border-radius: 10px;
+    color: white;
+    background: blue;
+    margin-top: -57px;
+}
+.mon{
+    margin: auto;
+}
+.box7{
+    
+        border: 1px solid rgb(255, 255, 255);
+        width: 80px;
+        height: 56px;
+        margin-left:472px;
+        border-radius: 10px;
+        color: rgb(0, 0, 0);
+        background: rgb(255, 255, 255);
+    
+}
+.box8{
+    border: 1px solid rgb(255, 255, 255);
+    width: 80px;
+    height: 56px;
+    margin-left:580px;
+    margin-top: -57px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+
+}
+
+.box9{
+    border: 1px solid rgb(255, 255, 255);
+    width: 80px;
+    height: 56px;
+    margin-left:680px;
+    margin-top: -57px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+}
+.box10{
+    border: 1px solid rgb(0, 0, 0);
+    width: 80px;
+    height: 56px;
+    margin-left:780px;
+    margin-top: -57px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background: rgb(31, 31, 231);
+}
+.box11{
+    border: 1px solid rgb(0, 0, 0);
+    width: 80px;
+    height: 56px;
+    margin-left:472px;
+    margin-top: 10px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+}
+.box12{
+    border: 1px solid rgb(0, 0, 0);
+    width: 80px;
+    height: 56px;
+    margin-left:580px;
+    margin-top: -57px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+}
+.box13{
+    border: 1px solid rgb(0, 0, 0);
+    width: 80px;
+    height: 56px;
+    margin-left:680px;
+    margin-top: -57px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+}
+.box14{
+    border: 1px solid rgb(10, 10, 10);
+    width: 80px;
+    height: 176px;
+    margin-left:780px;
+    margin-top: -57px;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(25, 228, 25);
+}
+.box15{
+    border: 1px solid rgb(0, 0, 0);
+    width: 80px;
+    height: 56px;
+    margin-left:472px;
+    margin-top: -110px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+}
+.box16{
+    border: 1px solid rgb(0, 0, 0);
+    width: 80px;
+    height: 56px;
+    margin-left:580px;
+    margin-top: -57px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+}
+.box17{
+    border: 1px solid rgb(0, 0, 0);
+    width: 80px;
+    height: 56px;
+    margin-left:680px;
+    margin-top: -57px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+}
+.box18{
+    border: 1px solid rgb(0, 0, 0);
+    width: 80px;
+    height: 56px;
+    margin-left:472px;
+    border-radius: 10px;
+    margin-top: 12px;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+}
+
+.box19{
+    border: 1px solid rgb(0, 0, 0);
+    width: 80px;
+    height: 56px;
+    margin-left:580px;
+    border-radius: 10px;
+    margin-top: -57px;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+}
+.hot{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    text-decoration: underline;
+    letter-spacing: 10px;
+}
